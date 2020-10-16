@@ -1,6 +1,4 @@
 
-Sample Java Applicaiton V1.13
+Sample Java Applicaiton V1.14
 
-kajsdhfsdfassgsdfg
-asdfasdasdfasasdfas
-asdfasd
+asdf simply poll trigger
